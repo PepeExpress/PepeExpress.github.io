@@ -51176,7 +51176,10 @@ A.Pf.prototype={
 $1(a){return J.c(J.kM(a,"type"),"TEXT")?A.a3p(a):A.a3p(a)},
 $S:309}
 A.Pg.prototype={
-$0(){var s=this.a,r=s.a
+$0(){var s=this.a,r=s.b
+r.w.G(0)
+r.y=!1
+r=s.a
 s.b=r[B.hr.Dy(r.length)]
 s.e=!0
 s.aS()
