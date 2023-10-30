@@ -51170,7 +51170,7 @@ wa(a){var s=this,r=s.b
 if(!r.y){r.w.C(0,a)
 if(a===r.r)r.y=!0
 s.aS()
-if(s.b.r===a){A.x3(B.e6,new A.Pg(s),t.rZ);++s.c}else if(s.e){s.e=!1;++s.d}}},
+if(s.b.r===a&&s.e){A.x3(B.e6,new A.Pg(s),t.rZ);++s.c}else if(s.e){s.e=!1;++s.d}}},
 $ia6:1}
 A.Pf.prototype={
 $1(a){return J.c(J.kM(a,"type"),"TEXT")?A.a3p(a):A.a3p(a)},
