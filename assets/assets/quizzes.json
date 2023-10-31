@@ -8888,4 +8888,2554 @@
   "correctAnswer": "A",
   "_class": "mb.apps.mushroomquiz.entity.Quiz",
   "type": "TEXT"
-}]
+},
+  {
+    "_id": {
+      "$oid": "653fce4d77c5667aa1667931"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/isNzbxe.jpeg",
+    "correctAnswer": "Agaricus Arvensis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fce5377c5667aa1667932"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/lW05LLV.jpeg",
+    "correctAnswer": "Agaricus Arvensis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fce5a77c5667aa1667933"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/A7SJzWh.jpeg",
+    "correctAnswer": "Agaricus Bitorquis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fce6377c5667aa1667934"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/Uh2NaJW.jpeg",
+    "correctAnswer": "Agaricus Bitorquis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fce6977c5667aa1667935"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/AhufOeQ.jpeg",
+    "correctAnswer": "Agaricus Bitorquis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fce7277c5667aa1667936"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/5agtJ4a.jpeg",
+    "correctAnswer": "Agaricus Bitorquis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fce7e77c5667aa1667937"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/JuRkP7Y.jpeg",
+    "correctAnswer": "Agaricus Campestris",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fce8177c5667aa1667938"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/u9UYlt2.jpeg",
+    "correctAnswer": "Agaricus Campestris",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fce9e77c5667aa1667939"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/DEUgkmW.jpeg",
+    "correctAnswer": "Agaricus Crocodilinus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcebd77c5667aa166793a"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/Z1SbELv.jpeg",
+    "correctAnswer": "Agaricus Crocodilinus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcee977c5667aa166793b"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/AqYbFfy.jpeg",
+    "correctAnswer": "Agaricus Crocodilinus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fceed77c5667aa166793c"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/QCcjln4.jpeg",
+    "correctAnswer": "Agaricus Crocodilinus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcef477c5667aa166793d"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/Z2Lkf9h.jpeg",
+    "correctAnswer": "Agaricus Crocodilinus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf1377c5667aa166793e"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/dpf3MRD.jpeg",
+    "correctAnswer": "Agaricus Crocodilinus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf2777c5667aa166793f"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/fUWETxU.jpeg",
+    "correctAnswer": "Agaricus Crocodilinus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf4477c5667aa1667940"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/O2G0V36.jpeg",
+    "correctAnswer": "Agaricus Crocodilinus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf4b77c5667aa1667941"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/qgCTwjj.jpeg",
+    "correctAnswer": "Amanita Caesarea",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf5177c5667aa1667942"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/iJFjmte.jpeg",
+    "correctAnswer": "Amanita Caesarea",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf5977c5667aa1667943"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/LafOOsh.jpeg",
+    "correctAnswer": "Amanita Caesarea Ovulo",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf5b77c5667aa1667944"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/D40Lo4b.jpeg",
+    "correctAnswer": "Armillaria Mellea",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf6477c5667aa1667945"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/ZHhDnZm.jpeg",
+    "correctAnswer": "Armillaria Mellea",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf7177c5667aa1667946"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/TGoBAYi.jpeg",
+    "correctAnswer": "Armillaria Mellea",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf7777c5667aa1667947"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/SzEBPR3.jpeg",
+    "correctAnswer": "Armillaria Mellea",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf7e77c5667aa1667948"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/UtQNfpK.jpeg",
+    "correctAnswer": "Auricularia Auricola Judae",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf8b77c5667aa1667949"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/pSMmyRy.jpeg",
+    "correctAnswer": "Auricularia Auricola Judae",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf9777c5667aa166794a"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/Y9JIEMc.jpeg",
+    "correctAnswer": "Auricularia Auricola Judae",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf9b77c5667aa166794b"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/aROM1Kn.jpeg",
+    "correctAnswer": "Boletus Aereus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcf9d77c5667aa166794c"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/FuRPxUz.jpeg",
+    "correctAnswer": "Boletus Aereus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcfa577c5667aa166794d"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/zTQTS1A.jpeg",
+    "correctAnswer": "Boletus Aestivalis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcfa777c5667aa166794e"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/HduaU1G.jpeg",
+    "correctAnswer": "Boletus Aestivalis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcfad77c5667aa166794f"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/mTvpVoR.jpeg",
+    "correctAnswer": "Boletus Aestivalis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcfb477c5667aa1667950"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/iKkXBO5.jpeg",
+    "correctAnswer": "Boletus Aestivalis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcfb777c5667aa1667951"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/O4BubH7.jpeg",
+    "correctAnswer": "Boletus Edulis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcfc277c5667aa1667952"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/nJsmjcW.jpeg",
+    "correctAnswer": "Boletus Edulis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcfc877c5667aa1667953"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/SBdcbJV.jpeg",
+    "correctAnswer": "Boletus Edulis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcfce77c5667aa1667954"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/EVFUPXP.jpeg",
+    "correctAnswer": "Boletus Edulis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcfdc77c5667aa1667955"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/B7SfZjM.jpeg",
+    "correctAnswer": "Boletus Edulis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcfde77c5667aa1667956"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/FiPRWcW.jpeg",
+    "correctAnswer": "Boletus Edulis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fcfeb77c5667aa1667957"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/NMNLuX6.jpeg",
+    "correctAnswer": "Boletus Edulis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd01177c5667aa1667958"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/bEyIbfT.jpeg",
+    "correctAnswer": "Boletus Edulis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd01477c5667aa1667959"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/nFx0omh.jpeg",
+    "correctAnswer": "Boletus Edulis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd01777c5667aa166795a"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/41zl4YU.jpeg",
+    "correctAnswer": "Boletus Edulis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd02677c5667aa166795c"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/uQHbfk3.jpeg",
+    "correctAnswer": "Boletus Edulis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd03777c5667aa166795d"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/78LpKUc.jpeg",
+    "correctAnswer": "Boletus Edulis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd03b77c5667aa166795e"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/0Acf3K4.jpeg",
+    "correctAnswer": "Boletus Pinophilus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd03e77c5667aa166795f"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/mBd2SmE.jpeg",
+    "correctAnswer": "Boletus Pinophilus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd04277c5667aa1667960"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/pxvSMG4.jpeg",
+    "correctAnswer": "Boletus Pinophilus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd05077c5667aa1667961"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/uHVSYVQ.jpeg",
+    "correctAnswer": "Boletus Pinophilus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd05f77c5667aa1667962"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/hZLftbb.jpeg",
+    "correctAnswer": "Boletus Pinophilus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd06e77c5667aa1667963"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/Tz7ABdF.jpeg",
+    "correctAnswer": "Boletus Pinophilus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd07c77c5667aa1667964"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/zfQEMhF.jpeg",
+    "correctAnswer": "Buthyriboletus Regius",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd08077c5667aa1667965"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/q7Rn0fE.jpeg",
+    "correctAnswer": "Buthyriboletus Regius",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd08477c5667aa1667966"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/kw2PcL9.jpeg",
+    "correctAnswer": "Buthyriboletus Regius",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd08d77c5667aa1667967"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/8mWQw8n.jpeg",
+    "correctAnswer": "Calocybe Gambosa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd09377c5667aa1667968"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/A8eSMct.jpeg",
+    "correctAnswer": "Calocybe Gambosa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd09877c5667aa1667969"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/dcU01cW.jpeg",
+    "correctAnswer": "Calocybe Gambosa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd09c77c5667aa166796a"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/m6lwJkm.jpeg",
+    "correctAnswer": "Calocybe Gambosa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0a777c5667aa166796b"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/kJdt65T.jpeg",
+    "correctAnswer": "Calocybe Gambosa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0a977c5667aa166796c"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/oyk4KyI.jpeg",
+    "correctAnswer": "Cantharellus Cibarius",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0ab77c5667aa166796d"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/GCC1QlT.jpeg",
+    "correctAnswer": "Cantharellus Cibarius",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0b377c5667aa166796e"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/VGkrlgh.jpeg",
+    "correctAnswer": "Cantharellus Lutescens",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0bb77c5667aa166796f"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/E8GHZKP.jpeg",
+    "correctAnswer": "Cantharellus Lutescens",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0c277c5667aa1667970"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/zDD5FBz.jpeg",
+    "correctAnswer": "Cantharellus Lutescens",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0c677c5667aa1667971"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/aw0fegD.jpeg",
+    "correctAnswer": "Craterellus Cornucopioides",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0c977c5667aa1667972"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/r3BD5eG.jpeg",
+    "correctAnswer": "Craterellus Cornucopioides",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0cc77c5667aa1667973"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/91RgM5p.jpeg",
+    "correctAnswer": "Cuphophyllus Pratensis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0cf77c5667aa1667974"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/Wbh4Nhs.jpeg",
+    "correctAnswer": "Cuphophyllus Pratensis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0d577c5667aa1667975"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/7NKo91g.jpeg",
+    "correctAnswer": "Cyclocybe Aegerita",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0db77c5667aa1667976"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/e7lRpAp.jpeg",
+    "correctAnswer": "Cyclocybe Aegerita",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0e577c5667aa1667977"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/rKAkD2L.jpeg",
+    "correctAnswer": "Cyclocybe Aegerita",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0e877c5667aa1667978"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/QzySDmB.jpeg",
+    "correctAnswer": "Cyclocybe Aegerita",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0eb77c5667aa1667979"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/jtFdL9v.jpeg",
+    "correctAnswer": "Hemileccinum Impolitum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0f477c5667aa166797a"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/oAePkUL.jpeg",
+    "correctAnswer": "Hemileccinum Impolitum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0f977c5667aa166797b"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/P3k7gfy.jpeg",
+    "correctAnswer": "Hemileccinum Impolitum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd0ff77c5667aa166797c"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/9HhlLFU.jpeg",
+    "correctAnswer": "Hydnum Albidum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd10277c5667aa166797d"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/xa7jfPP.jpeg",
+    "correctAnswer": "Hydnum Albidum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd10477c5667aa166797e"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/W4u1EHH.jpeg",
+    "correctAnswer": "Hydnum Repandum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd10877c5667aa166797f"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/cYIfLdx.jpeg",
+    "correctAnswer": "Hydnum Rufescens",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd10a77c5667aa1667980"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/oNd3yjv.jpeg",
+    "correctAnswer": "Hygrophorus Penarioides",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd10c77c5667aa1667981"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/rh07I5Z.jpeg",
+    "correctAnswer": "Hygrophorus Penarioides",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd10f77c5667aa1667982"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/V8E3Bme.jpeg",
+    "correctAnswer": "Hygrophorus Russula",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd11177c5667aa1667983"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/ZVsvWcG.jpeg",
+    "correctAnswer": "Hygrophorus Russula",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd11577c5667aa1667984"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/JUtZ3ja.jpeg",
+    "correctAnswer": "Infundibulicybe Geotropa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd11b77c5667aa1667985"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/s8wcfm6.jpeg",
+    "correctAnswer": "Lactarius Deliciosus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd12277c5667aa1667986"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/Xjlj3UK.jpeg",
+    "correctAnswer": "Lactarius Deliciosus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd12877c5667aa1667987"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/HTxHP47.jpeg",
+    "correctAnswer": "Lactarius Sanguifluus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd12f77c5667aa1667988"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/Cwu53ol.jpeg",
+    "correctAnswer": "Lactarius Sanguifluus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fd13677c5667aa1667989"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/yDp7KAf.jpeg",
+    "correctAnswer": "Lactarius Sanguifluus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fdf50e3b41221dc71c255"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/HCcxFDA.jpeg",
+    "correctAnswer": "Boletus Aestivalis",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedb8cc4f7c60503b4b7b"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/sOJao99.jpeg",
+    "correctAnswer": "Lactarius Sanguifluus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedbacc4f7c60503b4b7c"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/6jKZAG9.jpeg",
+    "correctAnswer": "Lactarius Sanguifluus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedbccc4f7c60503b4b7d"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/z7TYSSW.jpeg",
+    "correctAnswer": "Leccinellum Crocipodium",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedbdcc4f7c60503b4b7e"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/rTxqH1p.jpeg",
+    "correctAnswer": "Leccinellum Crocipodium",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedbfcc4f7c60503b4b7f"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/yYefgED.jpeg",
+    "correctAnswer": "Leccinellum Crocipodium",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedc1cc4f7c60503b4b80"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/QNxr516.jpeg",
+    "correctAnswer": "Leccinum Aurantiacum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedc3cc4f7c60503b4b81"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/DcQ6gfB.jpeg",
+    "correctAnswer": "Leccinum Duriusculum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedc5cc4f7c60503b4b82"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/AIjETEm.jpeg",
+    "correctAnswer": "Leccinum Quercinum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedc8cc4f7c60503b4b83"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/DfxMKPQ.jpeg",
+    "correctAnswer": "Leccinum Quercinum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedc9cc4f7c60503b4b84"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/ykoPGnd.jpeg",
+    "correctAnswer": "Macrolepiota Mastoidea",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedcbcc4f7c60503b4b85"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/Y9bLSNg.jpeg",
+    "correctAnswer": "Macrolepiota Mastoidea",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedcdcc4f7c60503b4b86"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/mkIARjU.jpeg",
+    "correctAnswer": "Macrolepiota Procera",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedcecc4f7c60503b4b87"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/RK8mZrj.jpeg",
+    "correctAnswer": "Macrolepiota Procera",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedcfcc4f7c60503b4b88"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/O5t8v18.jpeg",
+    "correctAnswer": "Macrolepiota Procera",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedd1cc4f7c60503b4b89"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/aTd3u4h.jpeg",
+    "correctAnswer": "Macrolepiota Procera",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedd3cc4f7c60503b4b8a"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/D9iEAYG.jpeg",
+    "correctAnswer": "Marasmius Oreades",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedd4cc4f7c60503b4b8b"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/l0DyyHR.jpeg",
+    "correctAnswer": "Marasmius Oreades",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedd5cc4f7c60503b4b8c"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/Iwhztsm.jpeg",
+    "correctAnswer": "Morchella Conica",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedd7cc4f7c60503b4b8d"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/wA71Qf1.jpeg",
+    "correctAnswer": "Morchella Conica",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedd9cc4f7c60503b4b8e"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/aDnzdLW.jpeg",
+    "correctAnswer": "Morchella Conica",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653feddacc4f7c60503b4b8f"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/cX8uDzk.jpeg",
+    "correctAnswer": "Morchella Conica",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653feddbcc4f7c60503b4b90"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/YvsvkHV.jpeg",
+    "correctAnswer": "Morchella Esculenta",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedddcc4f7c60503b4b91"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/xNUa0xA.jpeg",
+    "correctAnswer": "Pleurotus Ostreatus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653feddfcc4f7c60503b4b92"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/fPtycmm.jpeg",
+    "correctAnswer": "Russula Aurea",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fede1cc4f7c60503b4b93"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/0RQnzfI.jpeg",
+    "correctAnswer": "Russula Aurea",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fede3cc4f7c60503b4b94"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/DRmj9vJ.jpeg",
+    "correctAnswer": "Russula Cyanoxantha",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fede5cc4f7c60503b4b95"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/VMJZyAA.jpeg",
+    "correctAnswer": "Russula Cyanoxantha",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fede7cc4f7c60503b4b96"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/sBkjnYg.jpeg",
+    "correctAnswer": "Russula Delica",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fede9cc4f7c60503b4b97"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/EJXWL5b.jpeg",
+    "correctAnswer": "Russula Delica",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedebcc4f7c60503b4b98"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/NpG9LO1.jpeg",
+    "correctAnswer": "Russula Heterophylla",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fededcc4f7c60503b4b99"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/v9ltXMG.jpeg",
+    "correctAnswer": "Russula Heterophylla",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedeecc4f7c60503b4b9a"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/dymzxe7.jpeg",
+    "correctAnswer": "Russula Vesca",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedefcc4f7c60503b4b9b"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/Dwc7WNr.jpeg",
+    "correctAnswer": "Russula Vesca",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedf2cc4f7c60503b4b9c"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/LNvuMEf.jpeg",
+    "correctAnswer": "Russula Vesca",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedf3cc4f7c60503b4b9d"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/Sou6ync.jpeg",
+    "correctAnswer": "Russula Vesca",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedf4cc4f7c60503b4b9e"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/1EezBkV.jpeg",
+    "correctAnswer": "Russula Virescens",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedf5cc4f7c60503b4b9f"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/VhHJBAU.jpeg",
+    "correctAnswer": "Russula Virescens",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedf7cc4f7c60503b4ba0"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/23UUpJY.jpeg",
+    "correctAnswer": "Suillus Granulatus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedf8cc4f7c60503b4ba1"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/6zB0mmk.jpeg",
+    "correctAnswer": "Suillus Granulatus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedf9cc4f7c60503b4ba2"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/phH1e27.jpeg",
+    "correctAnswer": "Suillus Granulatus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedfbcc4f7c60503b4ba3"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/EcD7TnX.jpeg",
+    "correctAnswer": "Suillus Granulatus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedfdcc4f7c60503b4ba4"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/WXTji1X.jpeg",
+    "correctAnswer": "Suillus Granulatus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fedfecc4f7c60503b4ba5"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/sA4zI5f.jpeg",
+    "correctAnswer": "Suillus Luteus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fee00cc4f7c60503b4ba6"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/2NNCEsj.jpeg",
+    "correctAnswer": "Suillus Luteus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fee02cc4f7c60503b4ba7"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/o84779g.jpeg",
+    "correctAnswer": "Tricholoma Acerbum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fee03cc4f7c60503b4ba8"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/PEpNcJJ.jpeg",
+    "correctAnswer": "Tricholoma Acerbum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fee05cc4f7c60503b4ba9"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/5odPp9d.jpeg",
+    "correctAnswer": "Tricholoma Acerbum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fee07cc4f7c60503b4baa"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/xJVnxGp.jpeg",
+    "correctAnswer": "Tricholoma Terreum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fee08cc4f7c60503b4bab"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/01yZT9b.jpeg",
+    "correctAnswer": "Tricholoma Terreum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "653fee0acc4f7c60503b4bac"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/wWJidpH.jpeg",
+    "correctAnswer": "Tricholoma Terreum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002d7a3614b0b8267b8de"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/o8TLAqH.jpeg",
+    "correctAnswer": "Xerocomus Dryophilus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002d9a3614b0b8267b8df"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/aEU2puq.jpeg",
+    "correctAnswer": "Xerocomus Dryophilus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002dba3614b0b8267b8e0"
+    },
+    "category": "commestibili",
+    "imageUrl": "https://i.imgur.com/zTFkcBm.jpeg",
+    "correctAnswer": "Xerocomus Subtomentosus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002dda3614b0b8267b8e1"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/i5ps8bq.jpeg",
+    "correctAnswer": "Agaricus Bresadolanus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002dfa3614b0b8267b8e2"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/1M4YEAc.jpeg",
+    "correctAnswer": "Agaricus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002e0a3614b0b8267b8e3"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/NJ66d1t.jpeg",
+    "correctAnswer": "Agaricus Xanthodermus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002e2a3614b0b8267b8e4"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/Vd2AQxa.jpeg",
+    "correctAnswer": "Agaricus Xanthodermus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002e4a3614b0b8267b8e5"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/VqvY7P7.jpeg",
+    "correctAnswer": "Amanita Muscaria",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002e6a3614b0b8267b8e6"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/FuY3pdG.jpeg",
+    "correctAnswer": "Amanita Muscaria",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002e7a3614b0b8267b8e7"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/9oFuwfk.jpeg",
+    "correctAnswer": "Amanita Pantherina",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002e9a3614b0b8267b8e8"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/iBkqWAg.jpeg",
+    "correctAnswer": "Amanita Pantherina",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002eaa3614b0b8267b8e9"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/YNtpgnJ.jpeg",
+    "correctAnswer": "Clitocybe Dealbata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002eba3614b0b8267b8ea"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/E3GSCJv.jpeg",
+    "correctAnswer": "Clitocybe Dealbata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002eda3614b0b8267b8eb"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/tcAmbZS.jpeg",
+    "correctAnswer": "Entoloma Sinuatum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002efa3614b0b8267b8ec"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/jcGpGRK.jpeg",
+    "correctAnswer": "Entoloma Sinuatum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002f1a3614b0b8267b8ed"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/9moO4R6.jpeg",
+    "correctAnswer": "Entoloma Sinuatum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002f2a3614b0b8267b8ee"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/J9JIA12.jpeg",
+    "correctAnswer": "Entoloma Sinuatum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002f5a3614b0b8267b8ef"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/UWAwdMD.jpeg",
+    "correctAnswer": "Entolona Sinuatum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002f6a3614b0b8267b8f0"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/78tVSFE.jpeg",
+    "correctAnswer": "Hebeloma Sinapizans",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002f7a3614b0b8267b8f1"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/yRF8lEc.jpeg",
+    "correctAnswer": "Hebeloma Sinapizans",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002faa3614b0b8267b8f2"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/eA9ZwAP.jpeg",
+    "correctAnswer": "Hypholoma Fasciculare",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002fba3614b0b8267b8f3"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/U0SvMNj.jpeg",
+    "correctAnswer": "Hypholoma Fasciculare",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002fda3614b0b8267b8f4"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/YAAaEHP.jpeg",
+    "correctAnswer": "Hypholoma Fasciculare",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654002fea3614b0b8267b8f5"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/BWUygX0.jpeg",
+    "correctAnswer": "Hypholoma Lateritium",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400300a3614b0b8267b8f6"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/quejSm9.jpeg",
+    "correctAnswer": "Hypholoma Lateritium",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400301a3614b0b8267b8f7"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/VaRoXhV.jpeg",
+    "correctAnswer": "Inocybe Fastigiata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400303a3614b0b8267b8f8"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/LhTUU2z.jpeg",
+    "correctAnswer": "Inocybe Fastigiata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400304a3614b0b8267b8f9"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/aL8TB7T.jpeg",
+    "correctAnswer": "Inocybe Fastigiata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400305a3614b0b8267b8fa"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/MpCxUBA.jpeg",
+    "correctAnswer": "Inocybe Fastigiata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400308a3614b0b8267b8fb"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/hEY2VKp.jpeg",
+    "correctAnswer": "Inocybe Fastigiata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400309a3614b0b8267b8fc"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/qLWp4TS.jpeg",
+    "correctAnswer": "Inocybe Fastigiata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540030ca3614b0b8267b8fd"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/mzf8eAl.jpeg",
+    "correctAnswer": "Inocybe Fastigiata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540030ea3614b0b8267b8fe"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/YaYoyAb.jpeg",
+    "correctAnswer": "Inocybe Fastigiata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400310a3614b0b8267b8ff"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/CY0pblk.jpeg",
+    "correctAnswer": "Inocybe Fastigiata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400312a3614b0b8267b900"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/aJ3sVD5.jpeg",
+    "correctAnswer": "Inocybe Fastigiata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400314a3614b0b8267b901"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/c1i2Hix.jpeg",
+    "correctAnswer": "Lactarius Piperatus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400316a3614b0b8267b902"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/cR1hcj0.jpeg",
+    "correctAnswer": "Lactarius Piperatus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400318a3614b0b8267b903"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/js2kzgb.jpeg",
+    "correctAnswer": "Lepiota Cristata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400319a3614b0b8267b904"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/ruyAkyn.jpeg",
+    "correctAnswer": "Lepiota Cristata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540031aa3614b0b8267b905"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/Sfadkjb.jpeg",
+    "correctAnswer": "Mycena Pura",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540031ba3614b0b8267b906"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/EM3KDv2.jpeg",
+    "correctAnswer": "Mycena Pura",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540031da3614b0b8267b907"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/1Q3h4Ea.jpeg",
+    "correctAnswer": "Mycena Pura",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540031fa3614b0b8267b908"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/9GyWML8.jpeg",
+    "correctAnswer": "Omphalotus Olearius",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400321a3614b0b8267b909"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/y8eeJey.jpeg",
+    "correctAnswer": "Omphalotus Olearius",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400323a3614b0b8267b90a"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/jjdbnvE.jpeg",
+    "correctAnswer": "Omphalotus Olearius",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400324a3614b0b8267b90b"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/YDk4pG9.jpeg",
+    "correctAnswer": "Omphalotus Olearius",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400326a3614b0b8267b90c"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/Uo24yf4.jpeg",
+    "correctAnswer": "Omphalotus Olearius",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400328a3614b0b8267b90d"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/xNrCCCW.jpeg",
+    "correctAnswer": "Paxillus Involutus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "65400329a3614b0b8267b90e"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/8xz1A3s.jpeg",
+    "correctAnswer": "Paxillus Involutus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540032ba3614b0b8267b90f"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/J5EQr7r.jpeg",
+    "correctAnswer": "Paxillus Involutus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540366064f5d57db9ea9de2"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/6AmvmCi.jpeg",
+    "correctAnswer": "Ramaria Formosa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540366164f5d57db9ea9de3"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/fliUr8M.jpeg",
+    "correctAnswer": "Ramaria",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540366364f5d57db9ea9de4"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/f5uGeSR.jpeg",
+    "correctAnswer": "Rubroboletus Lupinus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540366564f5d57db9ea9de5"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/iSLLFpo.jpeg",
+    "correctAnswer": "Rubroboletus Lupinus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540366664f5d57db9ea9de6"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/TGWtlBc.jpeg",
+    "correctAnswer": "Rubroboletus Lupinus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540366864f5d57db9ea9de7"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/Bj2e28F.jpeg",
+    "correctAnswer": "Rubroboletus Satanas",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540366a64f5d57db9ea9de8"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/PuHYLkP.jpeg",
+    "correctAnswer": "Rubroboletus Satanas",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540366b64f5d57db9ea9de9"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/qtNO3Yd.jpeg",
+    "correctAnswer": "Rubroboletus Satanas",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540366d64f5d57db9ea9dea"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/Voh4ERI.jpeg",
+    "correctAnswer": "Rubroboletus Satanas",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540366e64f5d57db9ea9deb"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/YaBFUKx.jpeg",
+    "correctAnswer": "Russula Luteotacta",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540367064f5d57db9ea9dec"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/RveBqFd.jpeg",
+    "correctAnswer": "Russula Luteotacta",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540367264f5d57db9ea9ded"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/0rpVpH9.jpeg",
+    "correctAnswer": "Russula Torulosa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540367464f5d57db9ea9dee"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/hdtpgf3.jpeg",
+    "correctAnswer": "Russula Torulosa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540367564f5d57db9ea9def"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/OvvOEaQ.jpeg",
+    "correctAnswer": "Tricholoma Bresadolanum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540367664f5d57db9ea9df0"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/oh5NXT3.jpeg",
+    "correctAnswer": "Tricholoma Bresadolanum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540367864f5d57db9ea9df1"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/ZeY64DH.jpeg",
+    "correctAnswer": "Tricholoma Bresadolanum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540367964f5d57db9ea9df2"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/GDWpxXa.jpeg",
+    "correctAnswer": "Tricholoma Pardinum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540367b64f5d57db9ea9df3"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/YThsLkf.jpeg",
+    "correctAnswer": "Tricholoma Pardinum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540367c64f5d57db9ea9df4"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/9l0tGVu.jpeg",
+    "correctAnswer": "Tricholoma Pardinum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540367d64f5d57db9ea9df5"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/DAfuxhG.jpeg",
+    "correctAnswer": "Tricholoma Pardinum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540367e64f5d57db9ea9df6"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/gsOYg7H.jpeg",
+    "correctAnswer": "Tricholoma Pardinum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540368064f5d57db9ea9df7"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/UrlhZG5.jpeg",
+    "correctAnswer": "Tricholoma Sulphureum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540368164f5d57db9ea9df8"
+    },
+    "category": "tossici",
+    "imageUrl": "https://i.imgur.com/F399w7f.jpeg",
+    "correctAnswer": "Tricholoma Sulphureum",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540368364f5d57db9ea9df9"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/HppP2AB.jpeg",
+    "correctAnswer": "Amanita Phalloides",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540368464f5d57db9ea9dfa"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/lE154jH.jpeg",
+    "correctAnswer": "Amanita Phalloides",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540368664f5d57db9ea9dfb"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/hsYTUho.jpeg",
+    "correctAnswer": "Amanita Phalloides",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540368764f5d57db9ea9dfc"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/VVziP9t.jpeg",
+    "correctAnswer": "Amanita Phalloides",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540368964f5d57db9ea9dfd"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/rRQNg3m.jpeg",
+    "correctAnswer": "Amanita Phalloides",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540368b64f5d57db9ea9dfe"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/SpuuWST.jpeg",
+    "correctAnswer": "Amanita Phalloides Var. Alba",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540368c64f5d57db9ea9dff"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/L2BW4fl.jpeg",
+    "correctAnswer": "Amanita Phalloides Var. Alba",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540368d64f5d57db9ea9e00"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/8LLUyFf.jpeg",
+    "correctAnswer": "Amanita Phalloides Var. Alba",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540368f64f5d57db9ea9e01"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/c6bpger.jpeg",
+    "correctAnswer": "Amanita Phalloides Var. Alba",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540369064f5d57db9ea9e02"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/UmbkXWs.jpeg",
+    "correctAnswer": "Amanita Phalloides Var. Alba",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540369164f5d57db9ea9e03"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/UemVJya.jpeg",
+    "correctAnswer": "Amanita Verna",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540369264f5d57db9ea9e04"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/C1f3Q2N.jpeg",
+    "correctAnswer": "Amanita Verna",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540369364f5d57db9ea9e05"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/x5ipcs6.jpeg",
+    "correctAnswer": "Amanita Verna",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540369564f5d57db9ea9e06"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/LCN9R4h.jpeg",
+    "correctAnswer": "Amanita Verna",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540369e64f5d57db9ea9e07"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/tho5AG6.jpeg",
+    "correctAnswer": "Amanita Verna",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540369f64f5d57db9ea9e08"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/y9zMp1x.jpeg",
+    "correctAnswer": "Amanita Virosa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654036a064f5d57db9ea9e09"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/K0b6J5r.jpeg",
+    "correctAnswer": "Amanita Virosa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654036a264f5d57db9ea9e0a"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/DA7PKOf.jpeg",
+    "correctAnswer": "Amanita Virosa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654036a464f5d57db9ea9e0b"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/JPUGmTW.jpeg",
+    "correctAnswer": "Amanita Virosa",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654036a564f5d57db9ea9e0c"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/OyCL7Po.jpeg",
+    "correctAnswer": "Cortinarius Orellanus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654036a764f5d57db9ea9e0d"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/iToyHQw.jpeg",
+    "correctAnswer": "Cortinarius Orellanus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654036af64f5d57db9ea9e0e"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/gRj4CjX.jpeg",
+    "correctAnswer": "Cortinarius Orellanus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654036b964f5d57db9ea9e0f"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/0jxqFIe.jpeg",
+    "correctAnswer": "Cortinarius Orellanus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654036c364f5d57db9ea9e10"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/BDQ9eBD.jpeg",
+    "correctAnswer": "Cortinarius Orellanus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654036c564f5d57db9ea9e11"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/fO4aSkA.jpeg",
+    "correctAnswer": "Cortinarius Speciosissimus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654036c764f5d57db9ea9e12"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/2T9BEpV.jpeg",
+    "correctAnswer": "Cortinarius Speciosissimus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "654036c964f5d57db9ea9e13"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/EzS9M2s.jpeg",
+    "correctAnswer": "Cortinarius Speciosissimus",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b556d4b4903d931b07e6"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/hIJLrQo.jpeg",
+    "correctAnswer": "Galerina Marginata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b558d4b4903d931b07e7"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/Apy6pQV.jpeg",
+    "correctAnswer": "Gyromitra Esculenta",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b559d4b4903d931b07e8"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/TWTQLFb.jpeg",
+    "correctAnswer": "Lepiota Brunneoincarnata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b55bd4b4903d931b07e9"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/sbOkPx1.jpeg",
+    "correctAnswer": "Lepiota Brunneoincarnata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b55dd4b4903d931b07ea"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/2uCHs0Q.jpeg",
+    "correctAnswer": "Lepiota Helveola",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b566d4b4903d931b07eb"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/ThuUgSN.jpeg",
+    "correctAnswer": "Lepiota Helveola",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b568d4b4903d931b07ec"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/8rmaaga.jpeg",
+    "correctAnswer": "Lepiota Subincarnata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b56ad4b4903d931b07ed"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/fkla2Tm.jpeg",
+    "correctAnswer": "Lepiota Subincarnata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b56cd4b4903d931b07ee"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/HtNNYtY.jpeg",
+    "correctAnswer": "Lepiota Subincarnata",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b56ed4b4903d931b07ef"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/oO2oYwR.jpeg",
+    "correctAnswer": "Tricholoma Equestre",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b56fd4b4903d931b07f0"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/YLK0hW5.jpeg",
+    "correctAnswer": "Tricholoma Equestre",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b570d4b4903d931b07f1"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/ge9z0QO.jpeg",
+    "correctAnswer": "Tricholoma Equestre",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b571d4b4903d931b07f2"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/YRxdRKl.jpeg",
+    "correctAnswer": "Tricholoma Equestre",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b573d4b4903d931b07f3"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/8HO6KDA.jpeg",
+    "correctAnswer": "Tricholoma Equestre",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b5f3ece2225c2c3f9082"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/2DWHxwC.jpeg",
+    "correctAnswer": "Tricholoma Equestre",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  },
+  {
+    "_id": {
+      "$oid": "6540b5f5ece2225c2c3f9083"
+    },
+    "category": "velenosi",
+    "imageUrl": "https://i.imgur.com/SvujnYv.jpeg",
+    "correctAnswer": "Tricholoma Equestre",
+    "type": "IMAGE",
+    "_class": "mb.apps.mushroomquiz.entity.ImageQuiz"
+  }]
