@@ -636,7 +636,7 @@
   "categoryDescription": "Cenni di biologia ed ecologia dei funghi, in particolare riferimento alla riproduzione e nutrizione (parassitismo, saprofitismo e simbiosi)",
   "question": "La commestibilità dei funghi:",
   "answers": {
-    "C": "è il risultato di ripetuti consumi da parte",
+    "C": "è il risultato di ripetuti consumi da parte del genere umano",
     "B": "è stabilita dallo Stato",
     "A": "viene decisa dal Governo"
   },
@@ -4784,7 +4784,7 @@
   "categoryDescription": "Hydnum repandum",
   "question": "Lo “stecherino dorato” è il nome volgare di:",
   "answers": {
-    "C": "Hydnum repandu",
+    "C": "Hydnum repandum",
     "B": "Amanita caesarea",
     "A": "Russula aurata"
   },

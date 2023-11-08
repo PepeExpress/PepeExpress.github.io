@@ -33,8 +33,14 @@
   <link rel="manifest" href="manifest.json">
 
   <script>
+    window.addEventListener('beforeinstallprompt', function (e) {
+      e.preventDefault();
+      return false;
+    });
+  </script>
+  <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "252891021";
+    const serviceWorkerVersion = "1034123569";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
